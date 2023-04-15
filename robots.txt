@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /assets/
+Allow: /css/
+Allow: /data1/
+Allow: /engine1/
+Allow: /fancybox/
+Allow: /fonts/
+Allow: /img/
+Allow: /js/
+
